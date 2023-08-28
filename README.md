@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashish8084
 - 👀 I’m interested in ...frontend developer 
 - 🌱 I’m currently learning ...javascript 
-- 💞️ I’m looking to collaborate on ...projects based on real world whivh we can solve using technology
+- 💞️ I’m looking to collaborate on ...projects based on real world which we can solve using technology 
 - 📫 How to reach me ...
 kumarraiashish00@gmail.com
 <!---
